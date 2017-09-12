@@ -1,7 +1,7 @@
 # Basic
 title: nanhuayu
 subtitle: 淡泊宁静 自强不息
-welcome_message: <a href="https://github.com/nanhuayu" target="_blank">见<font color=green>字</font>如面</a>
+welcome_message: <a href="https://github.com/nanhuayu" target="_blank">见字如面</a>
 description: 我与世界相遇,<br>我自与世界相蚀,<br>我自不辱使命,<br>使我与众生相聚!
 creator: <a href="http://nanhuayu.com">@nanhuayu</a>
 
@@ -10,7 +10,7 @@ url: "http://www.nanhuayu.com"
 permalink: /:year/:month/:title/
 
 # Format
-highlighter: rouge
+highlighter: orange
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: blue
