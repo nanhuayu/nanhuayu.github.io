@@ -1,0 +1,51 @@
+# Basic
+title: nanhuayu
+subtitle: A blog-orientation theme for Jekyll
+welcome_message: <a href="https://github.com/nanhuayu" target="_blank">My Home Page</a>
+description: Hello World!!!
+creator: <a href="http://nanhuayu.com">@nanhuayu</a>
+
+url: "http://www.nanhuayu.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: blue
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'http://project.nanhuayu.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: nanhuayu
+    github: nanhuayu
+    twitter: nanhuayu
+    gplus: 107108267983477358170
+    mail: nanhuayu@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
+
+theme: jekyll-theme-cayman
