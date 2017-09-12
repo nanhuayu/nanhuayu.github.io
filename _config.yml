@@ -1,8 +1,8 @@
 # Basic
 title: nanhuayu
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/nanhuayu" target="_blank">My Home Page</a>
-description: Hello World!!!
+subtitle: 淡泊宁静 自强不息
+welcome_message: <a href="https://github.com/nanhuayu" target="_blank">见<b>字</b>如面</a>
+description: 我与世界相遇,我自与世界相蚀,我自不辱使命,使我与众生相聚!
 creator: <a href="http://nanhuayu.com">@nanhuayu</a>
 
 url: "http://www.nanhuayu.com"
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.nanhuayu.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/nanhuayu/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
