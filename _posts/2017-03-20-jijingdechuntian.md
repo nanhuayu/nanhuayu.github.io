@@ -14,72 +14,56 @@ author: nanhuayu (禁止转载)
 * 除草剂
 
 ### 杀虫剂
-#### 氯化烃
-Chlorinated hydrocarbon
+#### 氯化烃 -- Chlorinated hydrocarbon
 
-* 双氯苯基三氯乙烷
-Dichloro-diphenyl-trichloro-ethane (DDT)
+* 双氯苯基三氯乙烷 -- Dichloro-diphenyl-trichloro-ethane (DDT)
 
-![DDT](/img/jjdct/p,p'-dichlorodiphenyltrichloroethane.png){height=120}
+![DDT](/img/jjdct/p,p'-dichlorodiphenyltrichloroethane.png){:height="100px"}
 
-* 氯丹
-chlordane
+* 氯丹 -- chlordane
 
-![chlordane](/img/jjdct/cis-chlordane.png){height=120}
-![chlordane](/img/jjdct/trans-chlordane.png){height=120}
+![chlordane](/img/jjdct/cis-chlordane.png){:height="100px"}
+![chlordane](/img/jjdct/trans-chlordane.png){:height="100px"}
 
-* 七氯
-heptachlor
+* 七氯 -- heptachlor
 
-![heptachlor](/img/jjdct/heptachlor.png){height=120}
+![heptachlor](/img/jjdct/heptachlor.png){:height="100px"}
 
 
-* 狄氏剂 氧桥氯甲桥萘
-Dieldrin
+* 狄氏剂 氧桥氯甲桥萘 -- Dieldrin
 
-![Dieldrin](/img/jjdct/Dieldrin.png){height=120}
+![Dieldrin](/img/jjdct/Dieldrin.png){:height="100px"}
 
-* 艾氏剂
-Aldrin
+* 艾氏剂 -- Aldrin
 
-![Aldrin](/img/jjdct/Aldrin.png){height=120}
+![Aldrin](/img/jjdct/Aldrin.png){:height="100px"}
 
-* 异狄氏剂
-Dieldrin
+* 异狄氏剂 -- Dieldrin
 
-![Dieldrin](/img/jjdct/Dieldrin.png){height=120}
+![Dieldrin](/img/jjdct/Dieldrin.png){:height="100px"}
 
 
-#### 有机磷酸盐
-Organic phosphates
+#### 有机磷酸盐 -- Organic phosphates
 
-* 对硫磷
-Parathion
+* 对硫磷 -- Parathion
 
-![parathion](/img/jjdct/parathion.png){height=120}
+![parathion](/img/jjdct/parathion.png){:height="100px"}
 
-* 马拉硫磷
-malathion
+* 马拉硫磷 -- malathion
 
-![Malathion](/img/jjdct/Malathion.png){height=120}
+![Malathion](/img/jjdct/Malathion.png){:height="100px"}
 
-* 八甲磷
-schradan
+* 八甲磷 -- schradan
 
-### 除草剂
-herbicides
+### 除草剂 -- herbicides
 
-* 亚砷酸钠
-Sodium arsenite
+* 亚砷酸钠 -- Sodium arsenite
 
-* 二硝基酚
-dinitrophenol
+* 二硝基酚 -- dinitrophenol
 
-* 五氯苯酚
-Pentachlorophenol
+* 五氯苯酚 -- Pentachlorophenol
 
-* 氨基三唑
-1,2,4-Triazol-3-amine
+* 氨基三唑 -- 1,2,4-Triazol-3-amine
 
 ### Licence
 
