@@ -27,7 +27,7 @@ author: nanhuayu (禁止转载)
 
 * 七氯 -- heptachlor
 
-![heptachlor](/img/jjdct/heptachlor.png){:height="100px"}
+![heptachlor](/img/jjdct/Heptachlor.png){:height="100px"}
 
 
 * 狄氏剂 氧桥氯甲桥萘 -- Dieldrin
