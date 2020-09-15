@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll教程
+title: 银翼杀手
 date: 2017-10-08 20:24:24.000000000 +09:00
 author: nanhuayu (禁止转载)
 ---
